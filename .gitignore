@@ -2,3 +2,7 @@
 .env
 # 数据库内容
 *.db
+venv/
+.idea/
+__pycache__/
+watchList/__pycache__/

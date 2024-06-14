@@ -2,7 +2,6 @@ import click
 from watchList import app, db
 from watchList.models import User, Movie
 
-
 @app.cli.command()
 def forge():
     """将虚拟数据存入数据库"""
