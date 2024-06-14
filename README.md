@@ -18,7 +18,7 @@ watchlist/
 ```
 
 
-`git clone https://github.com/blankxiao/flask_watchList.git` 克隆项目
-`cd flask_watchList` 进入文件目录
-`flask run` 运行项目
+`git clone https://github.com/blankxiao/flask_watchList.git` 克隆项目  
+`cd flask_watchList` 进入文件目录  
+`flask run` 运行项目  
 在`./watchList/commands,py`文件有定义一些命令，比如`flask initdb`用于初始化数据库等
